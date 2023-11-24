@@ -11,7 +11,7 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
-  "author": "Juan Carlos Gomez",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.0",
@@ -27,10 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcgom3/Challenge-22-Redux-Store.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jcgom3/Challenge-22-Redux-Store/issues"
-  },
-  "homepage": "https://github.com/jcgom3/Challenge-22-Redux-Store#readme"
+    "url": "https://github.com/Tocopro/challenge22/blob/main/package.json"
+  }
 }
