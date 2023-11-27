@@ -1,5 +1,5 @@
 {
-  "name": "challenge-22-redux-store",
+  "name": "redux-store",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -24,9 +24,5 @@
   "devDependencies": {
     "concurrently": "^5.1.0",
     "redux-devtools": "^3.7.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Tocopro/challenge22/blob/main/package.json"
   }
 }
